@@ -3,7 +3,7 @@ import WbIncandescentIcon from '@mui/icons-material/WbIncandescent';
 function Header() {
   return (
     <header>
-      <h1><WbIncandescentIcon /> Keeper</h1>
+      <h1><WbIncandescentIcon /> My Keeper</h1>
     </header>
   );
 }
